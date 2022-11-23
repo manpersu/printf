@@ -1,4 +1,4 @@
-#Write your own custom printf
+i#Write your own custom printf
 ```_printf(const char *format, ...)``` is a custom implementation of the ```printf``` function from c standard library.
 
 ## General Requirements
@@ -110,9 +110,9 @@ int main(void)
 
 
 # Authors
-* **Derbew Felasman**
+* **Andrew Halilu**
    - *Github:* [Andrew Halilu](https://github.com/Information14)
    - *Email:* g.andrewhalilu71@gmail.com
-* **Melat Samuel**
+* **Manpasu Mathias**
    - *Github:* [Manpasu Mathias](https://github.com/manpersu)
    - *Email:* manpasumathias@gmail.com
